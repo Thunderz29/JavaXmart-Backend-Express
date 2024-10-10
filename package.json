@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/app.js"
   },
-  "author": "",
+  "author": "Zidane Putra Andriant",
   "license": "ISC",
   "type": "module",
   "dependencies": {
